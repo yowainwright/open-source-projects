@@ -2,7 +2,7 @@
 
 > The following document cantains a table of **open source** work and contributions as related to a company's **"prior inventions agreement"**.
 
-The following table contains Jeffry Wainwright's much prior and current open source work. **None** of the work provides finance value beyond working code, learning, and/or productivity. This table does **not** act as a blocker to a hiring company's productivity but just to notes projects maintained, supported, and used without direct financial benefit by Jeffry Wainwright.
+The following table contains Jeffry Wainwright's open source work. **None** of the work provides finance value beyond working code, learning, and/or productivity. This table does **not** act as a blocker to a hiring company's productivity but notes projects maintained, supported, and used without financial benefit by Jeffry Wainwright.
 
 ---
 
