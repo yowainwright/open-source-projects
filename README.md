@@ -6,7 +6,6 @@ The following table contains Jeffry Wainwright's much prior and current open sou
 
 ---
 
-| --- | --- | --- |
 | Name | Date | Description |
 | --- | --- | --- |
 | [Common Utilities](https://github.com/yowainwright/common-utilities) | Mar 6, 2019 | Common JavaScript Utilities |
